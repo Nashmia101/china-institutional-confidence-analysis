@@ -45,4 +45,4 @@ R · ggplot2 · dplyr/tidyr · gt (tables) · corrplot · ggh4x (faceting) · re
 
 ## Running this
 
-Scripts are numbered to run in sequence — later scripts depend on objects created earlier (focus_data, others_data, backward_elimination(), all_model_stats, etc.). Requires WVSExtract.csv in the working directory (not included; source: World Values Survey, worldvaluessurvey.org).
+Scripts are numbered to run in sequence — later scripts depend on objects created earlier (focus_data, others_data, backward_elimination(), all_model_stats, etc.).
