@@ -31,6 +31,7 @@ R · ggplot2 · dplyr/tidyr · gt (tables) · corrplot · ggh4x (faceting) · re
 
 ## Repo structure
 
+```
 ├── README.md
 └── scripts/
     ├── 00_setup.R
@@ -40,6 +41,7 @@ R · ggplot2 · dplyr/tidyr · gt (tables) · corrplot · ggh4x (faceting) · re
     ├── 04_Q2c_regression_others.R
     ├── 05_Q3a_time_trends.R
     └── 06_Q3b_wavewise_models_and_diagnostics.R
+```
 
 ## Running this
 
